@@ -61,7 +61,6 @@ r
 
 ## 📈 시각화 코드
 
-r
 # Age vs Commun 산점도
 ggplot(mydata, aes(Age, Commun)) +
   geom_point(alpha = 0.6) +
